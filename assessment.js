@@ -115,3 +115,4 @@ console.assert(
 console.log(assessment('太郎'));
 console.log(assessment('次郎'));
 console.log(assessment('太郎'));
+　
