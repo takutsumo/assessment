@@ -79,6 +79,7 @@ const answers = [
 '14{userName}のいいところは、、、',
 '15{userName}のいいところは、、、',
 '16{userName}のいいところは、、、',
+'17{userName}のいいところは優しさです、{userName}の優しい雰囲気や立ち振る舞いに多くの人が癒されています。',
 ];
 
 userNameInput.onkeydown = event => {
